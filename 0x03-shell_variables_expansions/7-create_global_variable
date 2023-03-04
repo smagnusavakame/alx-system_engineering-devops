@@ -1,2 +1,3 @@
 #!/bin/bash
-export HOLBERTON="Betty"
+BEST = "School"
+export BEST
